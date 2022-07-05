@@ -106,14 +106,12 @@ h1 {
     height: 140px;
     width: 100%;
     margin-right: 200px;
-    background-color: brown;
     margin-top: 80px;
     border-radius: 10px;
 }
 
 .half-width-all {
     height: 670px;
-    background-color: rgb(214, 200, 118);
 }
 
 footer {

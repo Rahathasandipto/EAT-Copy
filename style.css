@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.faxible-container {
+    display: flex;
+}
+
+.boy-section {
+    padding-left: 30px;
+}
+
+.half-width {
+    width: 100%;
+    padding-left: 20px;
+}
+
+#oneid {
+    padding-top: 30px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+/* about section in this section */
+.about-section {
+    padding-left: 20px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 420px;
+}
+
+.imgage {
+    padding-left: 5%;
+}
+
+.about-content {
+    padding-top: 12%;
+    padding-right: 30%;
+    text-align: justify;
+}
+
+.about-button {
+    padding-top: 50px;
+}
+
+.boy-button {
+    padding-top: 40px;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 50px;
+    font-size: 20px;
+    background-image: linear-gradient(orange, tomato);
+
+}
+
+/* this is resipy tips */
+
+.recipies-content {
+    text-align: center;
+    width: 700px;
+    padding-left: 17%;
+}
+
+.div-img-one {
+    float: left;
+    height: 400px;
+    width: 40%;
+    margin-left: 45px;
+    margin-bottom: 10px;
+
+}
+
+.boorder {
+    height: 400px;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.div-img-two {
+    float: right;
+    height: 400px;
+    width: 40%;
+    margin-right: 95px;
+    margin-bottom: 10px;
+}
+
+.div-view-main {
+    margin: 10px 90px 10px 40px;
+}
+
+.div-view {
+    float: left;
+    height: 140px;
+    width: 100%;
+    margin-right: 200px;
+    background-color: brown;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+
+.half-width-all {
+    height: 670px;
+    background-color: rgb(214, 200, 118);
+}
+
+footer {
+    background-color: black;
+    height: 100px;
+    color: white;
+    padding-top: 10px;
+}
+
+.text-meddile {
+    text-align: center;
+}
+
+.div-view {
+    display: inline-block;
+    box-shadow: 1px 10px 80px green;
+}
+
+li {
+    display: inline-block;
+    padding: 0px 78px 5px;
+    padding-bottom: 100px
+}
